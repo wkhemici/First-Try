@@ -1,0 +1,97 @@
+<html>
+    <!-- Comments -->
+</html>
+    <title>My First Draft</title>
+</head>
+<body>
+    <a href="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiGysug0rTgAhXPGDQIHWb_BSgQjRx6BAgBEAU&url=http%3A%2F%2Fwww.animalplanet.com%2Fpets%2Fcats%2F&psig=AOvVaw3kJ11hhNlHTHmz0ulvvRi6&ust=1550007557658691"></a>
+</body>
+
+<a href="www.google.com">link</a>
+<img src="img.png"> 
+<h1></h1>
+<h2></h2>
+<h3></h3>
+
+<header></header>
+<body></body>
+<div>Logical Container</div><section>Easier?</section>
+<p>Wraps Individual Paragraphs</p>
+<navbar>Navigation Bar</navbar>
+<nav>Is this different than the NavBar?</nav>
+
+<strong>bold</strong>
+<em>Emphasis</em>
+<img>Images!<img>
+<aside>This is an aside</aside>
+<footer>this is gonna be at the FOOT</footer>
+
+<div id="nav"><diva class="header"></diva></div>
+
+<br>line break</br>
+
+<list-style:none></list-style:none>
+<li>List items</li>
+<li>more listing</li>
+
+<table>to create a table, move horizontally</table>
+
+<!-- Make you comments here-->
+
+<p>All HTM tags are here : <a href="www.w3schools.com/tags">link</a></p>
+
+HTML for Forms - Common UI Form Elements:
+
+<form>Form</form>
+
+<label for="name"> Name (Blah Blah!):</label>
+
+<input type="text" name="firstname">
+
+<p>HTML alone is like writing in a notepad for essays.. Can only write unformatted text.</p>
+
+<p>Floats and BOXES models... in CSS, every element rests withi a series of boxes...u can custom each box </p>
+
+<!-- this would prob go into your corresponding css style file-->
+#box {background-color:#1E5792;
+width: 400px
+height: 440px;
+margin: }
+
+<p>Clearfix is a thing to align images/boxes... It's a hack. </p>
+<div class="Clearfix"></div>
+
+<!-- in CSS is would be ... .clearfix::after { 
+    conent: ""
+     display: block;
+    clear..etc-->
+
+    <p>Flex is useful for mobile websearching</p>
+<p>Homework is due on tuesday! three day weekend. 
+    classes use .classname and ID use #idname,and elements just use their name!semi colons are needed.. 
+</p>
+
+<!--for example:-->
+a { background-color: yellow ; }
+
+<p>these are the 3 diff naming styles: kabob-case, snake_case, camelCase</p>
+
+<body>
+    
+    CSS posiionsing of BOXES... 
+
+    class="box"
+    id="box-1"
+
+    or
+
+    class="box box-1"
+
+    layering with Z index:
+
+    display: none <!--to hide thing! then later reveak,,,-->
+</body>
+
+
+
+
